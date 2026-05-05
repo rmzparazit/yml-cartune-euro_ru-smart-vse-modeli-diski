@@ -1,0 +1,417 @@
+{
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0dca2e/": {
+        "fingerprint": "fa3984477ce8e094b3321b3f59e10c03",
+        "raw_data": {
+            "h1_title": "Диски Smart ROADSTER 2003",
+            "brand": "Mercedes-Benz",
+            "price_raw": "29999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/33/0010_33_408.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/33/0010_33_409.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/33/0010_33_410.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/33/0010_33_411.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/33/0010_33_412.jpg"
+            ],
+            "specs": {
+                "Марка": "Smart",
+                "Модель": "ROADSTER",
+                "Кузов": "W452",
+                "Двигатель": "M160.922",
+                "Год": "2003",
+                "Номер по производителю": "605590004838V002",
+                "Производитель": "Mercedes-Benz",
+                "Кросс-номера": "605840006815V001"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски Michelin Made in France 4J15 E27 5.5J ET-1. Шины Bridgestone Blizzak MZ-03 145/65R15 175/55R15 2002г",
+            "sales_notes": "Б/у, контрактная. В наличии Москва",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Smart ROADSTER 2003",
+                    "description": "Оригинальные диски Michelin Made in France 4J15 E27 5.5J ET-1. Шины Bridgestone Blizzak MZ-03 145/65R15 175/55R15 2002г. Контрактная запчасть с авто Smart ROADSTER 2003."
+                },
+                {
+                    "title": "Диски Smart ROADSTER 2003",
+                    "description": "Оригинальные диски Michelin Made in France 4J15 E27 5.5J ET-1. Шины Bridgestone Blizzak MZ-03 145/65R15 175/55R15 2002г. Контрактная запчасть с авто Smart ROADSTER 2003."
+                },
+                {
+                    "title": "Диски Smart ROADSTER 2003",
+                    "description": "Оригинальные диски Michelin Made in France 4J15 E27 5.5J ET-1. Шины Bridgestone Blizzak MZ-03 145/65R15 175/55R15 2002г. Контрактная запчасть с авто Smart ROADSTER 2003."
+                },
+                {
+                    "title": "Диски Smart ROADSTER 2003",
+                    "description": "Оригинальные диски Michelin Made in France 4J15 E27 5.5J ET-1. Шины Bridgestone Blizzak MZ-03 145/65R15 175/55R15 2002г. Контрактная запчасть с авто Smart ROADSTER 2003."
+                },
+                {
+                    "title": "Диски Smart ROADSTER 2003",
+                    "description": "Оригинальные диски Michelin Made in France 4J15 E27 5.5J ET-1. Шины Bridgestone Blizzak MZ-03 145/65R15 175/55R15 2002г. Контрактная запчасть с авто Smart ROADSTER 2003."
+                },
+                {
+                    "title": "Диски Smart ROADSTER 2003",
+                    "description": "Оригинальные диски Michelin Made in France 4J15 E27 5.5J ET-1. Шины Bridgestone Blizzak MZ-03 145/65R15 175/55R15 2002г. Контрактная запчасть с авто Smart ROADSTER 2003."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [МАРКА] [МОДЕЛЬ] [ГОД] - оригинальные диски [БРЕНД] [ХАРАКТЕРИСТИКИ] [ШИНЫ] [ГОД_ШИН]",
+            "collection_description": "Контрактная Диски Mercedes-Benz ROADSTER (кузов W452, двс M160.922)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:03:32.555771"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e0c46/": {
+        "fingerprint": "0bee08ce16a68863d6800f3e2818a8b1",
+        "raw_data": {
+            "h1_title": "Диски Smart Forfour 2016",
+            "brand": "Mercedes-Benz",
+            "price_raw": "34999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/95/0010_95_999.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_000.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_001.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_002.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0010/96/0010_96_003.jpg"
+            ],
+            "specs": {
+                "Марка": "Smart",
+                "Модель": "Forfour",
+                "Кузов": "W453",
+                "Двигатель": "M281.920",
+                "Год": "2016",
+                "Номер по производителю": "A4534018600",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски. Без ремонтов и трещин. 5J R15 ET32 5.5J R15 ET42",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Smart Forfour 2016",
+                    "description": "Оригинальные диски Smart Forfour 2016 W453. Без ремонтов и трещин. Размеры: 5J R15 ET32, 5.5J R15 ET42. Номер A4534018600."
+                },
+                {
+                    "title": "Диски Forfour 2016 W453",
+                    "description": "Контрактные диски Smart Forfour 2016 года. Кузов W453, двигатель M281.920. Оригинал Mercedes-Benz. Без дефектов."
+                },
+                {
+                    "title": "Диски Smart Forfour W453",
+                    "description": "Оригинальные диски от Smart Forfour W453. 2016 год. Размеры: 5J R15 ET32 и 5.5J R15 ET42. Состояние отличное."
+                },
+                {
+                    "title": "Диски Forfour 2016 M281.920",
+                    "description": "Диски Smart Forfour 2016 с двигателем M281.920. Оригинальные, без ремонтов. Номер A4534018600. В наличии."
+                },
+                {
+                    "title": "Диски Smart Forfour 2016 A4534018600",
+                    "description": "Оригинальные диски Smart Forfour 2016. Артикул A4534018600. Размеры 5J R15 ET32, 5.5J R15 ET42. Без трещин."
+                },
+                {
+                    "title": "Диски Forfour 2016 оригинал",
+                    "description": "Оригинальные диски Mercedes-Benz для Smart Forfour 2016. Кузов W453. Без ремонтов. Размеры: 5J R15 ET32, 5.5J R15 ET42."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные [деталь] [марка] [модель] [год] [кузов] [двигатель]. Без ремонтов и трещин. [размеры]. Номер [артикул].",
+            "collection_description": "Контрактная Диски Mercedes-Benz Forfour (кузов W453, двс M281.920)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:04:00.523939"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4b5/": {
+        "fingerprint": "8048b9c110c6b0f5f505f886286eb6de",
+        "raw_data": {
+            "h1_title": "Диски Smart Fortwo BRABUS 2010",
+            "brand": "Smart",
+            "price_raw": "39999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_569.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_570.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_571.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_572.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_573.jpg"
+            ],
+            "specs": {
+                "Марка": "Smart",
+                "Модель": "Fortwo BRABUS",
+                "Кузов": "W451",
+                "Двигатель": "M132.930",
+                "Год": "2010",
+                "Номер по производителю": "A4514013102",
+                "Производитель": "Mercedes-Benz",
+                "Кросс-номера": "A4514013202"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски. Без сварки и трещин. 5Jx15 ET34 6.5Jx15 ET34.5",
+            "sales_notes": "В наличии на складе Москва",
+            "custom_labels": [
+                "Контрактный",
+                "Б/У",
+                "Smart",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Оригинальные диски Smart Fortwo BRABUS 2010 года, кузов W451, двигатель M132.930. Без сварки и трещин. Размеры: 5Jx15 ET34 и 6.5Jx15 ET34.5. Номер производителя A4514013102. В наличии на складе в Москве."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Контрактные диски Smart Fortwo BRABUS 2010, снятые с автомобиля. Оригинальные, без дефектов. Параметры: 5Jx15 ET34, 6.5Jx15 ET34.5. Артикул A4514013102. Доступны для заказа."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Оригинальные диски Smart Fortwo BRABUS 2010 W451. Состояние: без сварки и трещин. Размеры: 5Jx15 ET34, 6.5Jx15 ET34.5. Кросс-номер A4514013202. Цена 39 999 руб."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Диски Smart Fortwo BRABUS 2010 года выпуска. Оригинальные, без повреждений. Характеристики: 5Jx15 ET34, 6.5Jx15 ET34.5. Номер A4514013102. В наличии в Москве."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Оригинальные диски Smart Fortwo BRABUS 2010, модель W451. Без сварки и трещин. Размеры: 5Jx15 ET34, 6.5Jx15 ET34.5. Артикул A4514013102. Цена 39 999 руб."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Контрактные диски Smart Fortwo BRABUS 2010. Оригинал, без дефектов. Параметры: 5Jx15 ET34, 6.5Jx15 ET34.5. Номер A4514013102. В наличии на складе."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] - оригинальные, без сварки и трещин, размеры [размеры], номер [номер]",
+            "collection_description": "Контрактная Диски Smart Fortwo BRABUS (кузов W451, двс M132.930)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:04:27.597450"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e0c47/": {
+        "fingerprint": "4a6ad2c7bc1a61fc878723371b5fcbc2",
+        "raw_data": {
+            "h1_title": "Диски Smart Forfour 2017",
+            "brand": "Mercedes-Benz",
+            "price_raw": "39999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/63/0008_63_806.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/63/0008_63_807.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/63/0008_63_808.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/63/0008_63_809.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/63/0008_63_810.jpg"
+            ],
+            "specs": {
+                "Марка": "Smart",
+                "Модель": "Forfour",
+                "Кузов": "W453",
+                "Двигатель": "M281.920",
+                "Год": "2017",
+                "Номер по производителю": "A4534018600",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски. Без ремонтов и трещин. Резина с хорошим остатком",
+            "sales_notes": "165/65/15 185/60/15 5J R15 ET32 5.5J R15 ET42",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Smart Forfour 2017",
+                    "description": "Оригинальные диски Smart Forfour 2017 W453. Без ремонтов и трещин. Резина с хорошим остатком. Размеры: 165/65/15 и 185/60/15. Параметры: 5J R15 ET32, 5.5J R15 ET42. Номер A4534018600."
+                },
+                {
+                    "title": "Диски Smart Forfour 2017",
+                    "description": "Контрактные диски Smart Forfour 2017 года. Состояние: без ремонтов и трещин. В комплекте резина с хорошим остатком. Размеры: 165/65/15 и 185/60/15. Параметры: 5J R15 ET32, 5.5J R15 ET42."
+                },
+                {
+                    "title": "Диски Smart Forfour 2017",
+                    "description": "Оригинальные диски Mercedes-Benz для Smart Forfour 2017. Без дефектов. Резина с хорошим остатком. Размеры: 165/65/15 и 185/60/15. Параметры: 5J R15 ET32, 5.5J R15 ET42."
+                },
+                {
+                    "title": "Диски Smart Forfour 2017",
+                    "description": "Диски Smart Forfour 2017 W453 M281.920. Оригинал. Без ремонтов и трещин. Резина с хорошим остатком. Размеры: 165/65/15 и 185/60/15. Параметры: 5J R15 ET32, 5.5J R15 ET42."
+                },
+                {
+                    "title": "Диски Smart Forfour 2017",
+                    "description": "Контрактные диски Smart Forfour 2017. Оригинальные. Без ремонтов и трещин. Резина с хорошим остатком. Размеры: 165/65/15 и 185/60/15. Параметры: 5J R15 ET32, 5.5J R15 ET42."
+                },
+                {
+                    "title": "Диски Smart Forfour 2017",
+                    "description": "Оригинальные диски Smart Forfour 2017. Состояние отличное. Без ремонтов и трещин. Резина с хорошим остатком. Размеры: 165/65/15 и 185/60/15. Параметры: 5J R15 ET32, 5.5J R15 ET42."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Оригинальные диски [Марка] [Модель] [Год]. Без ремонтов и трещин. Резина с хорошим остатком. Размеры: [размеры]. Параметры: [параметры].",
+            "collection_description": "Контрактная Диски Mercedes-Benz Forfour (кузов W453, двс M281.920)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:04:58.954042"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0e22fc/": {
+        "fingerprint": "76ce5ae8ca2d646b4cff4cb9db6275bb",
+        "raw_data": {
+            "h1_title": "Диски Smart Fortwo 2015 W453",
+            "brand": "Mercedes-Benz",
+            "price_raw": "44999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/08/0008_08_660.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/08/0008_08_661.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0008/08/0008_08_662.jpg"
+            ],
+            "specs": {
+                "Марка": "Smart",
+                "Модель": "Fortwo",
+                "Кузов": "W453",
+                "Двигатель": "M281.920",
+                "Год": "2015",
+                "Номер по производителю": "A4534018500",
+                "Производитель": "Mercedes-Benz",
+                "Кросс-номера": "A4534018600"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски. Без ремонтов и трещин. Резина с хорошим остатком 165/65/15 185/60/15",
+            "sales_notes": "Сняты с Smart Fortwo 2015. Комплект 4 шт",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Smart Fortwo 2015 W453",
+                    "description": "Оригинальные диски Smart Fortwo 2015 W453. Без ремонтов и трещин. Резина с хорошим остатком 165/65/15 185/60/15. Комплект 4 шт."
+                },
+                {
+                    "title": "Диски Smart Fortwo 2015 W453",
+                    "description": "Контрактные диски Smart Fortwo 2015 W453. Состояние отличное, без дефектов. Размер 5J R15 ET32 и 5.5J R15 ET42."
+                },
+                {
+                    "title": "Диски Smart Fortwo 2015 W453",
+                    "description": "Диски Smart Fortwo 2015 W453 с резиной. Оригинал Mercedes-Benz. Номер A4534018500. Подходят на W453."
+                },
+                {
+                    "title": "Диски Smart Fortwo 2015 W453",
+                    "description": "Комплект дисков Smart Fortwo 2015 W453. Без трещин и ремонтов. Резина 165/65/15 и 185/60/15. Хороший остаток."
+                },
+                {
+                    "title": "Диски Smart Fortwo 2015 W453",
+                    "description": "Оригинальные диски Smart Fortwo 2015 W453 M281.920. Сняты с авто. Состояние отличное. Цена за комплект."
+                },
+                {
+                    "title": "Диски Smart Fortwo 2015 W453",
+                    "description": "Диски Smart Fortwo 2015 W453. Оригинал. Без ремонтов. Резина с остатком. Размеры 165/65/15 и 185/60/15."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] - оригинальные, без ремонтов и трещин, с резиной [размеры]",
+            "collection_description": "Контрактная Диски Mercedes-Benz Fortwo (кузов W453, двс M281.920)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:05:14.085541"
+    },
+    "https://cartune-euro.ru/autopart-product/0100000064afc496ce0da4af/": {
+        "fingerprint": "af79c92384a35fdc75a083fc3ccaceba",
+        "raw_data": {
+            "h1_title": "Диски Smart Fortwo BRABUS 2010",
+            "brand": "Mercedes-Benz",
+            "price_raw": "69999",
+            "oldprice_raw": "",
+            "currency": "RUB",
+            "images": [
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_456.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_457.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_458.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_459.jpg",
+                "https://3fb394a7-cdc0-4e09-a75f-727196cc50fd.selcdn.net/pub/c2710/productphoto/0011/34/0011_34_460.jpg"
+            ],
+            "specs": {
+                "Марка": "Smart",
+                "Модель": "Fortwo BRABUS",
+                "Кузов": "W451",
+                "Двигатель": "M132.930",
+                "Год": "2010",
+                "Номер по производителю": "A4514012202",
+                "Производитель": "Mercedes-Benz"
+            },
+            "available": true,
+            "category_name": "Диски",
+            "category_usp": "",
+            "description_usp": "Оригинальные диски без варок и трещин. 7.5J R17 ET33 5.5J R16 ET30",
+            "sales_notes": "Сняты с Smart Fortwo BRABUS 2010",
+            "custom_labels": [
+                "Б/У",
+                "Контрактный",
+                "Mercedes-Benz",
+                "Диски"
+            ],
+            "variations": [
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Оригинальные диски без варок и трещин. 7.5J R17 ET33 5.5J R16 ET30. Сняты с Smart Fortwo BRABUS 2010. Номер A4514012202."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Контрактные диски от Smart Fortwo BRABUS 2010. Размеры: 7.5J R17 ET33 и 5.5J R16 ET30. Без дефектов."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Оригинальные диски Mercedes-Benz для Smart Fortwo BRABUS 2010. Состояние отличное, без варок и трещин."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Комплект дисков от Smart Fortwo BRABUS 2010. Размеры: 7.5J R17 ET33 и 5.5J R16 ET30. Номер A4514012202."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Диски оригинальные, сняты с автомобиля Smart Fortwo BRABUS 2010. Без повреждений, готовы к установке."
+                },
+                {
+                    "title": "Диски Smart Fortwo BRABUS 2010",
+                    "description": "Оригинальные диски Smart Fortwo BRABUS 2010. Размеры: 7.5J R17 ET33 и 5.5J R16 ET30. Состояние хорошее."
+                }
+            ],
+            "ai_templates": {},
+            "selectors": {},
+            "semantic_pattern": "Диски [Марка] [Модель] [Год] [Кузов] [Двигатель] [Номер]",
+            "collection_description": "Контрактная Диски Mercedes-Benz Fortwo BRABUS (кузов W451, двс M132.930)",
+            "extraction_mode": "ai"
+        },
+        "last_seen": "2026-05-06T00:05:38.156472"
+    }
+}
